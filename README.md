@@ -33,6 +33,9 @@ The RNN model showcases a normal lag in response during spikes, a characteristic
 3. Evaluate model predictions against real stock prices.
 4. Utilize the RNN for trend analysis and forecasting in financial markets.
 
+**Important Note:**
+While the absolute values may not be precisely mapped, the model accurately captures and predicts overall trends in the stock market.
+
 **Contributions:**
 Contributions and enhancements are welcomed. Feel free to open issues, provide feedback, or submit pull requests.
 
