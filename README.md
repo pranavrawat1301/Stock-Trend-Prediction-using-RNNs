@@ -40,4 +40,4 @@ While the absolute values may not be precisely mapped, the model accurately capt
 Contributions and enhancements are welcomed. Feel free to open issues, provide feedback, or submit pull requests.
 
 **Tools and Libraries:**
-- Python, NumPy, Pandas, Matplotlib, Keras
+- Python, NumPy, Pandas, Matplotlib, Keras , RNNs
